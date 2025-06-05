@@ -145,7 +145,7 @@ plt.tight_layout()
 plt.show()
 ``` 
 ### The analysis 
-#### rResults are summarized as follows:
+#### Results are summarized as follows:
 * Overall sales showed a steady upward trend throughout the year, with significant spikes during the holiday season (November–December).
 * Product Category A consistently outperformed others in both total sales and revenue generation.
 * Customers with high income levels contributed the most to overall revenue, particularly in premium product segments.
